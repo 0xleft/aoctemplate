@@ -1,11 +1,11 @@
 package aoctemplate
 
 import (
-	"aoctemplate/utils"
 	"errors"
 	"strconv"
 	"strings"
 
+	"github.com/0xleft/aoctemplate/utils"
 	"github.com/barweiss/go-tuple"
 )
 

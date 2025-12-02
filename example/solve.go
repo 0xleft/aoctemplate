@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"template/aoc"
+
+	"github.com/0xleft/aoctemplate"
 )
 
 func main() {
-	solution := aoc.Solution{Day: 1, Year: -100000, Filename: "input"}
+	solution := aoctemplate.Solution{Day: 1, Year: -100000, Filename: "input"}
 	fmt.Println(solution)
 }

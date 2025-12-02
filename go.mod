@@ -1,4 +1,4 @@
-module aoctemplate
+module github.com/0xleft/aoctemplate
 
 go 1.25
 
